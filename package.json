@@ -18,6 +18,7 @@
   "homepage": "https://github.com/jnst/x-js",
   "dependencies": {
     "commander": "^2.8.0",
+    "immutable": "^3.7.2",
     "lodash": "^3.7.0",
     "moment": "^2.10.2",
     "multiline": "^1.0.2",
