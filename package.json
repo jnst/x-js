@@ -19,6 +19,7 @@
   "dependencies": {
     "commander": "^2.8.0",
     "immutable": "^3.7.2",
+    "jstat": "^1.1.5",
     "lodash": "^3.7.0",
     "moment": "^2.10.2",
     "multiline": "^1.0.2",
