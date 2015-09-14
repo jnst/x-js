@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jnst/x-js",
   "dependencies": {
+    "array-wrap": "0.0.2",
     "commander": "^2.8.0",
     "immutable": "^3.7.2",
     "jstat": "^1.1.5",
